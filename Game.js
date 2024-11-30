@@ -17,7 +17,7 @@ const GenCompChoice = () =>{
     
     const randIdx = Math.floor(Math.random()*3 )// multiply with 3 to math.random() to get range from 0 to 2 
     
-    return options[randIdx];
+    return options[randIdx]; 
 
 };
 
